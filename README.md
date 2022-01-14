@@ -1,2 +1,2 @@
 # This-is-Codingtest
-Archive of solving problems in book, 'this-is-codingtest'.
+Archive of solutions for problems in book, 'this-is-codingtest'.
