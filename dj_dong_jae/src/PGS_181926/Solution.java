@@ -1,4 +1,4 @@
-package BOJ_181926;
+package PGS_181926;
 
 class Solution {
     public int solution(int n, String control) {
